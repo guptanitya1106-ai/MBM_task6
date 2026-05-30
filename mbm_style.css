@@ -6,6 +6,8 @@ p {
   line-height: 1.6;
 }
 h1 {
+    white-space: nowrap;
+    width: auto;
     color: #105666;
     font-family: serif;
     font-size: 110px;
