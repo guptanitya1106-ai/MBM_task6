@@ -6,8 +6,10 @@ p {
   line-height: 1.6;
 }
 h1 {
-    white-space: nowrap;
-    width: auto;
+    white-space: nowrap !important;
+    width: auto !important;
+    max-width: none !important;
+    display: block !important;
     color: #105666;
     font-family: serif;
     font-size: 110px;
