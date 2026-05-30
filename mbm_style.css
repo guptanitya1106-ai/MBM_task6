@@ -1,0 +1,102 @@
+p {
+  margin:10px;
+  padding:10px;
+  width: 1350px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+h1 {
+    color: #105666;
+    font-family: serif;
+    font-size: 110px;
+    font-weight: normal;
+    margin: 5px;
+    padding:10px;
+}
+h2{
+  color: #004A4D;
+  margin:10px;
+  padding:10px;
+  width: 1350px;
+  font-size: 21px;
+  line-height: 1.6;
+  font-weight:normal;
+}
+h3{
+  color: #137668;
+  margin:10px;
+  padding:10px;
+  width: 1350px;
+  font-size: 19px;
+  line-height: 1.6;
+  font-weight:normal;
+}
+body{
+    padding:10px;
+    margin: 10px;
+    font-family: monospace;
+    color: #5c4766;
+    background-color: #d8ffff;
+     background: #cccccc url('bg.png') no-repeat center/cover fixed;
+}
+div{
+    padding:10px;
+    margin:10px;
+}
+nav {
+  display: flex;
+  justify-content: flex-end; 
+  gap: 30px;
+  padding: 20px 0;           
+  width: 100%;
+}
+nav a {
+  font-size: 14px;
+}
+.img1{
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+}
+.me {
+    border: 5px solid #105666;          
+}
+.img2{
+    display: flex;
+    align-items: center; 
+    gap: 20px;  
+}
+.dance {
+    border: 5px solid #105666;             
+}
+.img3{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.bb{
+    border: 5px solid #105666;    
+}
+.img4{
+    display: flex;
+    align-items:center;
+    gap:20px;
+}
+.music{
+    border: 5px solid #105666;    
+}
+.img5{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.design{
+    border: 5px solid #105666;  
+}
+.video{
+  display: flex;
+  justify-content: center;
+  align-items: center;    
+  min-height: 100vh;
+  margin-top:-200px;
+}
